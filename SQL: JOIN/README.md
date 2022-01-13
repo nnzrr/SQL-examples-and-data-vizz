@@ -5,3 +5,5 @@
 * SQL join statement: 
 
 ![alt text](https://github.com/nnzrr/SQL-examples/blob/main/SQL:%20JOIN/screenshot/join.PNG)
+![alt text](https://github.com/nnzrr/SQL-examples/blob/main/SQL:%20JOIN/screenshot/result.PNG)
+
