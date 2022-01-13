@@ -5,3 +5,7 @@
 * Basic SQL:
 
 ![alt text](https://github.com/nnzrr/SQL-examples/blob/main/basics%20SQL/screenshot/basic%20statements.PNG) 
+
+* Dashboard:
+
+![alt text](https://github.com/nnzrr/SQL-examples/blob/main/basics%20SQL/screenshot/Dashboard%201.png)
