@@ -1,2 +1,2 @@
 # SQL-examples
-a collection my SQL files
+a collection my SQL querys
