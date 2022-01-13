@@ -6,6 +6,6 @@
 
 ![alt text](https://github.com/nnzrr/SQL-examples/blob/main/basics%20SQL/screenshot/basic%20statements.PNG) 
 
-* Dashboard:
+* Dashboard: [Data Visualization](https://public.tableau.com/app/profile/nazarudin.ahmad/viz/car_16415255683420/Dashboard1)
 
 ![alt text](https://github.com/nnzrr/SQL-examples/blob/main/basics%20SQL/screenshot/Dashboard%201.png)
